@@ -24,3 +24,7 @@ Once the various steps have been completed, the tool generates the final packsho
 ## IV. Additional information
 - The number and different camera angles were defined with image team leaders.
 - The poses were created on Blender 3D from 3D scans of mannequins, using template fitting.
+
+## State:
+- [ ] Work in progress
+- [X] Work completed
