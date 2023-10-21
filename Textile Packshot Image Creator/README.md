@@ -18,10 +18,6 @@ My mission was to revolutionize the creation of product images, commonly known a
 
 **Why it Matters:**
 - **Efficiency**: Say goodbye to time-consuming and costly photo shoots with mannequins.
-- **Flexibility**: Avatars offer limitless possibilities for poses, multiple shots, and scene arrangements, while also promoting inclusivity and diversity.
-
-**Why it Matters:**
-- **Efficiency**: Say goodbye to time-consuming and costly photo shoots with mannequins.
 - **Flexibility**: Avatars offer limitless possibilities for poses, multiple shots, and scene arrangements.
 - **Reach more Customers**: Avatars promote more inclusivity and diversity in terms of morphology and physical characteristics, by using AI.
 
