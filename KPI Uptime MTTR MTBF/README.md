@@ -6,6 +6,8 @@
 
 This project is part of my 2-month internship as an analyst and developer at `Decathlon global warehouse`. In the interest of confidentiality, detailed specifics cannot be revealed at this time.
 
+> June to July 2022
+
 ## II. Objective
 
 In an environment that experiences around 20,000 breakdowns weekly, not all are independent. Single breakdowns can trigger several others, and even basic maintenance activities can cause disruptions. These breakdowns may also resolve at different times, further complicating their duration assessment. The objective of this internship was:
@@ -40,7 +42,7 @@ These previous operations will enable to calculate the final duration of the fau
 ```
 Duration (FIRST CAUSE) = Occurrence (FIST CAUSE) - Confirmation (LAST CAUSE)
 
-Duration (SUB CAUSE) = Duration (LAST CAUSE) = 0 s
+Duration (SUB CAUSE) = Duration (LAST CAUSE) = 0
 ```
 
 ## VI. KPIs Calculation and Reporting
