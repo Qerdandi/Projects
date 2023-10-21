@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,flutter
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode,flutter
 
+*__archives*
+**/WebImagesDownloader/Images/*.png
+**/WebImagesDownloader/Ebook/*.pdf
+
 ### Flutter ###
 # Flutter/Dart/Pub related
 **/doc/api/
