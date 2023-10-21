@@ -4,7 +4,7 @@
 
 ## I. Context
 
-This project is part of my 2-month internship as an analyst and developer at `Decathlon global warehouse`. In the interest of confidentiality, detailed specifics cannot be revealed at this time.
+This project is part of my 2-month internship as an analyst and developer at `Decathlon Logistics`. In the interest of confidentiality, detailed specifics cannot be revealed at this time.
 
 > June to July 2022
 
@@ -13,7 +13,7 @@ This project is part of my 2-month internship as an analyst and developer at `De
 In an environment that experiences around 20,000 breakdowns weekly, not all are independent. Single breakdowns can trigger several others, and even basic maintenance activities can cause disruptions. These breakdowns may also resolve at different times, further complicating their duration assessment. The objective of this internship was:
 
 The objective of this internship was:
-- The verification of the reliability of the performance reports given to the Decathlon warehouse of Rouvignies.
+- The verification of the reliability of the performance reports given to the Decathlon global warehouse of Rouvignies.
 - The development of a software for automatic calculation of the machines and maintenance teams' performance.
 
 ## III. Software Workflow
