@@ -20,6 +20,11 @@ My mission was to revolutionize the creation of product images, commonly known a
 - **Efficiency**: Say goodbye to time-consuming and costly photo shoots with mannequins.
 - **Flexibility**: Avatars offer limitless possibilities for poses, multiple shots, and scene arrangements, while also promoting inclusivity and diversity.
 
+**Why it Matters:**
+- **Efficiency**: Say goodbye to time-consuming and costly photo shoots with mannequins.
+- **Flexibility**: Avatars offer limitless possibilities for poses, multiple shots, and scene arrangements.
+- **Reach more Customers**: Avatars promote more inclusivity and diversity in terms of morphology and physical characteristics, by using AI.
+
 ## III. The Tool
 
 The solution comes in the form of an ingenious Python automation tool. This versatile tool empowers you to:
@@ -32,6 +37,8 @@ The solution comes in the form of an ingenious Python automation tool. This vers
 
 - **Clo 3D**: Simulates 3D textiles on an avatar, bringing poses to life.
 - **Blender 3D**: Sets up the perfect photo shoot scene with a range of camera angles.
+- **Python script**: Generates the finale packshot images and save them on the computer.
+- **AI** (external process): Transforms blank avatars into photo-realistic avatars to allow customers to identify with them.
 
 When the process is complete, the tool presents you with a stunning packshot of your product. (Please note that the example below is not the final product, due to confidentiality reasons.)
 
