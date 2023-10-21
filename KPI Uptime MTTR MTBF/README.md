@@ -4,7 +4,7 @@
 
 ## I. Context
 
-This project is part of my 2-month internship as an analyst and developer at `Decathlon's global warehouse`. In the interest of confidentiality, detailed specifics cannot be revealed at this time.
+This project is part of my 2-month internship as an analyst and developer at `Decathlon global warehouse`. In the interest of confidentiality, detailed specifics cannot be revealed at this time.
 
 ## II. Objective
 
@@ -23,12 +23,13 @@ The software, operated through a Command Line Interface (CLI), simplifies a comp
 3. **KPIs Calculation**: Calculate the duration of each fault (primary causes) and derive the essential Key Performance Indicators (KPIs).
 4. **Reporting**: Present results in CLI tables or .csv files for integration into Excel.
 
-## IV. Fault Categorization
+## IV. Fault Filtering
 
 All faults occurring before the end of the fault under consideration are assigned the status "KILL", i.e. they will be eliminated. In fact, between the first fault studied and the last, there was no period of good operation, so this counts as a single stoppage, i.e. a fault. We then consider the next fault, and so on until we've dealt with all the faults one by one.
 
 Let's continue with fault filtering. If a fault has been marked "KILL", it is considered a "SUB CAUSE". Otherwise, it is considered a "FIRST CAUSE" if and only if the following fault is a "SUB CAUSE". Otherwise, it will be assigned the status "INDEPENDENT CAUSE".
-In a third column, the "FIRST CAUSE" and "INDEPENDENT CAUSE" are carried forward, and only the last "SUB CAUSE" in a series of "SUB CAUSES" is carried forward and marked "LAST CAUSE". Inevitably, therefore, there will be empty boxes.
+
+Then, the "FIRST CAUSE" and "INDEPENDENT CAUSE" are carried forward, and only the last "SUB CAUSE" in a series of "SUB CAUSES" is carried forward and marked "LAST CAUSE". Inevitably, therefore, there will be empty boxes.
 
 ## V. Duration Calculation
 
@@ -37,12 +38,12 @@ These previous operations will enable to calculate the final duration of the fau
 - For a "FIRST CAUSE" followed by a series of "SUB CAUSE" up to the "LAST CAUSE", the following calculation is performed:
 
 ```
-Duration (1st cause) = Occurrence (FIST CAUSE) - Confirmation (LAST CAUSE)
+Duration (FIRST CAUSE) = Occurrence (FIST CAUSE) - Confirmation (LAST CAUSE)
 
 Duration (SUB CAUSE) = Duration (LAST CAUSE) = 0 s
 ```
 
-## VI. Results and Analysis
+## VI. KPIs Calculation and Reporting
 ### Downtime
 The software generates downtime information, combining module (PLC and LAC combined) breakdown durations to calculate the total downtime during a shift. It also computes the operating time.
 
@@ -109,3 +110,7 @@ In addition, it generates 3 files to be integrated into Excel for graphical visu
 **Unleash the Power of Data Analysis for Enhanced Industrial Efficiency!**
 
 > #Python, #Data visualization, #PLC performance monitoring
+
+## VII. State
+- [ ] Work in progress
+- [X] Work completed
