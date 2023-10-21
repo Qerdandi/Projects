@@ -1,4 +1,4 @@
-# PLC Performance Calculation Software
+# PLC Performance Calculator
 
 **Solving Complex Problems in Data Analysis and Industrial Efficiency**
 
