@@ -16,7 +16,7 @@ Verdandi is a simple Android application that lets you choose between 2 or more 
   <img width="720" alt="Verdandi" src="https://github.com/CyberTorii/Mini-projects/assets/73184884/edd3fb06-839d-48cf-8ed5-b2d06d2ce531">
 </p>
 
-> #Cordova, #Frontend, #Mobile App, #Tack/choice making
+> #Cordova, #Frontend, #Mobile App, #Task/choice making
 
 ## Mysticard - June 2023
 > **Challenge**: Development of a android application using the framework Apache Cordova.
