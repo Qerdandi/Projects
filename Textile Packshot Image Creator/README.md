@@ -46,6 +46,19 @@ When the process is complete, the tool presents you with a stunning packshot of 
   <img width="400" alt="packshot_example" src="https://github.com/CyberTorii/Projects/assets/73184884/b3259dcc-111b-467f-9534-438e0cb96b49">
 </p>
 
+### What it Makes Possible
+
+The Textile Packshot Image Creator empowers users to:
+
+- Generate packshots of garments/accessories on avatars.
+- Create vacuum garment packshots.
+- Customize poses, angles of view, and lighting for avatars and rendering scene.
+
+Additionally, the tool offers the flexibility to:
+
+- Install the tool on any computer.
+- Access it remotely from any computer.
+
 ## IV. Additional Information
 
 - The number and variation of camera angles have been meticulously defined in collaboration with image team leaders.
