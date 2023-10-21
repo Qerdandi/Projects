@@ -8,7 +8,9 @@
 
 ## I. Context
 
-Welcome to the Pill Dispenser project, a remarkable achievement born out of a school endeavor. Our mission was to design a programmable pill dispenser that could effectively manage a patient's medication. To achieve this, we developed an application using Unity in C# to communicate with the pill dispenser powered by Arduino. The application empowers users to set treatment frequency, monitor medication reserves in the dispenser, and activate light and sound alarms to remind patients to take their medication. Additionally, the pill dispenser was meticulously designed in 3D using 3D Experience and brought to life with a 3D printer.
+Welcome to the Pill Dispenser project, a remarkable achievement born out of a school project. Our mission was to design a programmable pill dispenser that could effectively manage a patient's medication. To achieve this, we developed an application using Unity in C# to communicate with the pill dispenser powered by Arduino. The application empowers users to set treatment frequency, monitor medication reserves in the dispenser, and activate light and sound alarms to remind patients to take their medication. Additionally, the pill dispenser was meticulously designed in 3D using 3D Experience and brought to life with a 3D printer.
+
+> January to May 2022
 
 ## II. Conception
 
@@ -39,6 +41,8 @@ The application is divided into two main sections:
 Once the connection is established between the application and the Arduino microcontroller of the pill dispenser, you can effortlessly send set-up parameters to the pill dispenser, ensuring it operates according to your preferences.
 
 **Transforming Medication Management, One Pill at a Time!**
+
+> #Unity, #IoT (Arduino), #CAD
 
 ## IV. Project Status
 

@@ -3,12 +3,14 @@
 **An Innovative Solution for Effortless Packshot Creation**
 
 <p align="center">
-  <img width="375" alt="packshot_example" src="https://github.com/CyberTorii/Projects/assets/73184884/b3259dcc-111b-467f-9534-438e0cb96b49">
+  <img width="400" alt="packshot_example" src="https://github.com/CyberTorii/Projects/assets/73184884/b3259dcc-111b-467f-9534-438e0cb96b49">
 </p>
 
 ## I. Context
 
 Welcome to the Textile Packshot Image Creator, a groundbreaking project born during my 4-month R&D engineering internship at `Decathlon SportsLab`. In the interest of confidentiality, detailed specifics cannot be revealed at this time.
+
+> May to August 2023
 
 ## II. Objective
 
@@ -34,7 +36,7 @@ The solution comes in the form of an ingenious Python automation tool. This vers
 When the process is complete, the tool presents you with a stunning packshot of your product. (Please note that the example below is not the final product, due to confidentiality reasons.)
 
 <p align="center">
-  <img width="375" alt="packshot_example" src="https://github.com/CyberTorii/Projects/assets/73184884/b3259dcc-111b-467f-9534-438e0cb96b49">
+  <img width="400" alt="packshot_example" src="https://github.com/CyberTorii/Projects/assets/73184884/b3259dcc-111b-467f-9534-438e0cb96b49">
 </p>
 
 ## IV. Additional Information
@@ -44,6 +46,8 @@ When the process is complete, the tool presents you with a stunning packshot of 
 
 **Unlock the Future of Packshot Creation!**
 
-## State:
+> #Python, #Clo 3D, #Blender 3D, #Generative AI, #Process automation
+
+## V. State
 - [ ] Work in progress
 - [X] Work completed
