@@ -3,7 +3,7 @@
 ## Laser Lyre - October 2023
 > **Challenge**: Create a connected, digital musical instrument.
 
-Discover the Laser Lyre, a groundbreaking project merging music and technology. Your smartphone transforms into a speaker, while the app lets you visualize the music spectrum, and control the sound of notes.
+Discover the Laser Lyre, a project merging music and technology. Your smartphone transforms into a speaker, while the app lets you visualize the music spectrum, and control the sound of notes.
 
 The design of the Laser Lyre was created using CAD software and then, 3D printed. The lyre is connected to a smartphone via an Arduino Bluetooth module. The traditional strings of the lyre have been replaced by lasers. This not only adds a modern touch to the instrument but also enhances the musical experience by providing a unique way to play the instrument.
 
@@ -13,7 +13,7 @@ The design of the Laser Lyre was created using CAD software and then, 3D printed
 - Play example songs using the application.
 
 <p align="center">
-  <img width="720" alt="Laser Lyre" src="">
+  <img width="720" alt="Laser Lyre" src="https://github.com/CyberTorii/Projects/assets/73184884/d6d1a738-7062-4170-8bdb-1e399a97e40b">
 </p>
 
 > #Unity, #IoT (Arduino), #CAD
