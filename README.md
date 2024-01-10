@@ -13,7 +13,7 @@ Verdandi is a simple Android application that lets you choose between 2 or more 
 - You can also import your own `.txt` file with your choices or tasks. This allows you to have a backup and avoid rewriting everything.
 
 <p align="center">
-  <img width="720" alt="Verdandi" src="https://github.com/CyberTorii/Mini-projects/assets/73184884/edd3fb06-839d-48cf-8ed5-b2d06d2ce531">
+  <img width="720" alt="Verdandi" src="https://github.com/CyberTorii/Projects/assets/73184884/40f44e15-3acf-406e-8f08-12ee8c0cfe90">
 </p>
 
 > #Cordova, #Frontend, #Mobile App, #Task/choice making
@@ -30,7 +30,7 @@ Here are a few examples of how to use the application:
 - Dates, flags...
 
 <p align="center">
-  <img width="720" alt="Mysticard" src="https://github.com/TakeUpTech/Mini-projects/assets/73184884/c4d48c95-2a07-4e9a-a40f-c106132d9c34">
+  <img width="720" alt="Mysticard" src="https://github.com/CyberTorii/Projects/assets/73184884/dd1080d5-468d-4a3c-9e79-5e28c1374257">
 </p>
 
 The application is developed on Apache Cordova for android using HTML, CSS and Js.
